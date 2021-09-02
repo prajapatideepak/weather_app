@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Weather App using React :tada:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## How Weather app work
 
-In the project directory, you can run:
+Your need to enter Your City name 
+End it will give you weather data of your city 
 
 ### `npm start`
 
