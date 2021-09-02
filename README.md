@@ -1,2 +1,2 @@
-# weather_app
-weather app is created in React and using openWeather API
+# Weather_app
+weathe app Gives Your Realtime weather data of your city 
